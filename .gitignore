@@ -1,0 +1,59 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+example-speedment-spring-boot/mvnw
+example-speedment-spring-boot/mvnw.cmd
+example-speedment-spring-boot/.mvn/wrapper/maven-wrapper.properties
+example-speedment-spring-boot/.mvn/wrapper/maven-wrapper.jar
+example-speedment-spring-boot/settings.properties
+example-speedment-spring-boot/target/classes/application.properties
+*.class
+example-speedment-spring-boot/target/example-speedment-spring-boot-0.0.1-SNAPSHOT.jar
+example-speedment-spring-boot/target/example-speedment-spring-boot-0.0.1-SNAPSHOT.jar.original
+example.springconfigserver/target/
+springconfigclient/target/
+example-speedment-spring-boot/target/maven-archiver/pom.properties
+*.lst
+example-speedment-spring-boot/target/speedment-0.0.1-SNAPSHOT.jar
+*.original
+example.springconfigserver/target/classes/application.properties
